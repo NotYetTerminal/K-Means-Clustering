@@ -15,7 +15,7 @@ This repository contains a [Jupyter](https://jupyter.org/) Notebook for the trai
 Two sets of data are used in this notebook.
 
 1. The first is the `sklearn.datasets.load_digits` dataset which is a copy of the [UCI ML hand-written digits dataset](https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits). It contains 5620 8 by 8 pixel images of Arabic numeral digits. This data set is used for the classification.
-2. The second is the `sklearn.datasets.load_sample_image(china.jpg)`, which is used for the colour compression. The other image that is available is `flower.jpg`. Both of these two images are 640 by 427  pixel images.
+2. The second is the [Scikit-Learn Load Sample Images](https://scikit-learn.org/stable/datasets/loading_other_datasets.html#sample-images}, in which the `china.jpg` is used for the colour compression. The other image that is available is `flower.jpg`. Both of these two images are 640 by 427  pixel images.
 
 ### Process
 
